@@ -11,11 +11,11 @@
 ## Aprendizado
 > Aprendi utilizar a função isLogged(): para criar rotas privadas, onde é possível o acesso somente com autenticação.
 
-##Observações
+## Observações
 > O projeto ainda não finalizado, ainda vou implementar validações de senha e de e-mail.
 
 ## Links
-> Deploy: https://sistema-de-login-self.vercel.app/
+> Deploy: https://sistema-de-login-self.vercel.app/ <br>
 > Contato: https://beacons.ai/sergio_couter
 
 ## Imagens
