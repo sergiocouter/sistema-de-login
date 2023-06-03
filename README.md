@@ -3,7 +3,7 @@
 > É um sistema de login. O sistema possue duas telas, a tela de login e a tela de cadastro. Na tela de login tem dois campos de inputs, email e senha. E a tela de cadastro possue os inputs de nome, telefone, email, senha e confirmação da senha.
 
 ## Tecnologias
-> React js, React-router
+> React js, React-router, Bootstrap
 
 ## Objetivo
 > Aprender a utilizar o react-router, e entender como as rotas funcionam no React.
